@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<configuration>
+<okta>
+  <authentication>
+    <authenticationurl>https://in-ibm-test-okta-sso.okta.com/app/inibmorg761760_sso_1/exkzlwas3PlPBA4iv4x6/sso/saml</authenticationurl>
+    <issuer>http://www.okta.com/exkzlwas3PlPBA4iv4x6</issuer>
+    <logoutUrl>https://myorg.okta.com</logoutUrl>
+    <certificate>
+-----BEGIN CERTIFICATE-----
+MIIDuDCCAqCgAwIBAgIGAXRKE3QNMA0GCSqGSIb3DQEBCwUAMIGcMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxHTAbBgNVBAMMFGluLWlibS10ZXN0LW9rdGEtc3NvMRwwGgYJ
+KoZIhvcNAQkBFg1pbmZvQG9rdGEuY29tMB4XDTIwMDkwMTE0MjkyMloXDTMwMDkwMTE0MzAyMlow
+gZwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRYwFAYDVQQHDA1TYW4gRnJhbmNp
+c2NvMQ0wCwYDVQQKDARPa3RhMRQwEgYDVQQLDAtTU09Qcm92aWRlcjEdMBsGA1UEAwwUaW4taWJt
+LXRlc3Qtb2t0YS1zc28xHDAaBgkqhkiG9w0BCQEWDWluZm9Ab2t0YS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCUEYrCl9/Z9cHYW5LliEM+/ONHFB1bHhLF3JsjIETY4h+SZs6T
+xTzrUCI0P3NDNCilhQx9aA9/FpfTdWYdlrJ6iwhmNC+Fj35NujLCotoIK1zpw9sUtwAaNXkSnwxT
+p2bKbss5meieQjnaYVDEJnqp5zyGEljbLXyWd5CfsApmYmCmztncYiRjiB4TL73Nl5cyLyXzz5/p
+pz9wrR+LcjZPYz8HyfGO+cxe2NHvRX6CAEGjLLwBGb/XwhT4ZzzYwMa+Uu1gUh7Qpx/9kgCBxczF
+01wTFh3hEb/b4bwmqmQjp46SEaSsP7Tg2nxDu2NdZp6a/13xEoze0SWYbrR5PrPNAgMBAAEwDQYJ
+KoZIhvcNAQELBQADggEBAE1jV0mwPL4QZB1vkZIo7FTDgn8ZzFxVk87c2dGdgp8MKSJhK2Obm3Ux
+8Fh5xEJwpQVAojIO0UPfkYJb3MQKas0IEhf6+SlL3tDbV+X7vcqIxVOpQw6vlgMTrUfWvmt/aPVT
+2tcm8YSckdYUGbGYYxn6LgSidcV2sZHb3MzwtvgtI+f88MOivd6nIDnuymuZwhf4irZFyQ+K/S9j
+sD7yBf57ee1oaXACeQdM9FGZNIU9DnHbrxtA5bOiXHp/vWifjoL8AwLrOmZbYyDevrP6RC9c+3Cm
+gtSjNkw/gARgQpgr/potgxEfeebinmV9zCS+nb+vSMK+UNXKf3b/gvRZlr0=
+-----END CERTIFICATE-----
+</certificate>
+  </authentication>
+</okta>
+</configuration>
