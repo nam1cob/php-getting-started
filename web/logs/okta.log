@@ -1,0 +1,28 @@
+[OKTA-PHP INFO] 2020-09-16 15:31:33 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:33 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 15:31:35 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:35 Undefined index: userId
+[OKTA-PHP ERROR] 2020-09-16 15:31:35 OKTA config was not found
+[OKTA-PHP INFO] 2020-09-16 15:31:35 Undefined index: RelayState
+[OKTA-PHP INFO] 2020-09-16 15:31:37 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:37 Undefined index: userId
+[OKTA-PHP ERROR] 2020-09-16 15:31:37 OKTA config was not found
+[OKTA-PHP INFO] 2020-09-16 15:31:37 Undefined index: RelayState
+[OKTA-PHP INFO] 2020-09-16 15:31:47 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:47 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 15:31:48 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:48 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 15:31:59 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:31:59 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 15:36:52 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:36:52 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 15:36:53 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 15:36:53 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-16 16:12:01 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-16 16:12:01 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-17 02:16:04 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-17 02:16:04 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-17 02:21:44 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-17 02:21:44 Undefined index: userId
+[OKTA-PHP INFO] 2020-09-17 06:06:07 Requested key: userId was not found in current SESSION
+[OKTA-PHP INFO] 2020-09-17 06:06:07 Undefined index: userId
